@@ -52,7 +52,7 @@ gulp.task('deploy', function () {
 });
 
  gulp.task('stylebuild', function () {
-    gulp.src(['../golden/src/css/style.scss', '../golden/src/css/display.scss'])  
+    gulp.src(['golden/css/src/style.scss', 'golden/css/src/display.scss'])  
         .pipe(rigger())
         .pipe(sourcemaps.init())
         .pipe(sass({
@@ -85,7 +85,7 @@ gulp.task('watch', function(){
     watch([path.watch.theme], function(event, cb) {
          gulp.start('deploy');
     });
-    watch(['../golden/src/css/style.scss', '../golden/src/css/display.scss'], function(event, cb) {
+    watch(['golden/css/src/style.scss', 'golden/css/src/display.scss'], function(event, cb) {
          gulp.start('stylebuild');
          gulp.start('deploy');
     });

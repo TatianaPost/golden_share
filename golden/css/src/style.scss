@@ -1393,3 +1393,6 @@ body.page-template-template-personal {
         color: #000;
     }
 }
+#navigation_menu >ul >.current-menu-item:before{
+    display: none;
+}
