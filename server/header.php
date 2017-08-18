@@ -21,10 +21,10 @@ if(is_page_template('template-step.php')){
 
 <body  <?php body_class($body_class); ?> >
 	
-	<div class="debug">
-		<button>Hide</button>
-	</div> 
-	<div class="body_debug_bg"></div>     
+<!-- 	<div class="debug">
+	<button>Hide</button>
+</div> 
+<div class="body_debug_bg"></div>      -->
 
 	<?php if(is_front_page()) {?>
 	<header>

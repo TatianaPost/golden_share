@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"us",
+				"user_content"
+			],
+			[
 				"subm",
 				"submenu_line.png\tw:453 h:61"
 			],
@@ -403,21 +407,40 @@
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/options",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/options/admin",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/js",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates",
 		"/C/Users/версткв/Documents/domain/golden/src",
 		"/C/Users/версткв/Documents/domain/golden/src/css"
 	],
 	"file_history":
 	[
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-step.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/etc/front.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-recruting.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/footer.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-personal.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/init_composer.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/client_desc.php",
+		"/C/Users/версткв/Documents/domain/golden/src/client.html",
+		"/C/Users/версткв/Documents/domain/golden/src/css/style.scss",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/breadcrambs.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/home_innovative.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/client_img.php",
+		"/C/Users/версткв/Documents/domain/golden/src/css/display.scss",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-client.php",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/front-page.php",
+		"/C/Users/версткв/Documents/domain/dating/info.txt",
+		"/C/Users/версткв/Documents/domain/golden-wp/golden/header.php",
+		"/C/Users/версткв/Desktop/polyglot.txt",
+		"/C/Users/версткв/Desktop/Полиглот/mysql_ou235424_poly.2017-05-26.sql",
+		"/C/Users/версткв/Desktop/i.html",
+		"/C/Users/версткв/Desktop/Полиглот/mysql_ou235424_db.2017-05-26.sql",
+		"/C/Users/версткв/Documents/domain/golden/src/about.html",
+		"/E/dom/wp-taxipress/wp-content/themes/alethemes-master/header.php",
+		"/C/Users/версткв/Documents/domain/golden/src/index.html",
 		"/E/dom/wp-taxipress/wp-content/themes/alethemes-master/template-about.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/config.php",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-recruting.php",
-		"/C/Users/версткв/Documents/domain/golden/src/css/display.scss",
-		"/C/Users/версткв/Documents/domain/golden/src/css/style.scss",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/functions/general.php",
 		"/C/Users/версткв/Documents/domain/shop.ags-design/form-checkout.php",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/front-page.php",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/header.php",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/etc/front.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/js/common.js",
 		"/C/Users/версткв/Documents/domain/beautyboss-wp/gulpfile.js",
 		"/E/dom/wp-taxipress/wp-content/themes/alethemes-master/aletheme/etc/front.php",
@@ -428,14 +451,11 @@
 		"/C/Users/версткв/Desktop/Новая папка (2)/hadget.com.ua/www/.htaccess",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/etc/nav.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/home_list.php",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/home_innovative.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/home_header.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/vc_row_inner.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/vc_column.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/vc_row.php",
 		"/C/OpenServer/domains/wp/alethemes-master/header.php",
-		"/C/Users/версткв/Documents/domain/golden/src/index.html",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/init_composer.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-about - копия.php",
 		"/C/Users/версткв/Documents/single-post.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/page.php",
@@ -444,7 +464,6 @@
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/aletheme/etc/system.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/template-about.php",
 		"/C/Users/версткв/Documents/domain/alacord/alacord/header.php",
-		"/C/Users/версткв/Documents/domain/golden-wp/golden/footer.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/home_finde.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/golden/vc_templates/home_result.php",
 		"/C/Users/версткв/Documents/domain/golden-wp/gulpfile.js",
@@ -521,21 +540,7 @@
 		"/C/Users/Yura/Downloads/css/bootstrap.css",
 		"/C/Users/Yura/Downloads/css/bootstrap.min.css",
 		"/C/OpenServer/OpenServer/domains/works/prom-click/build/index.html",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/build/bower_components/jquery/dist/jquery.min.js",
-		"/C/OpenServer/OpenServer/domains/works/1000/js/common.js",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/bower.json",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/src/config.rb",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/src/fonts/fonts.css",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/src/style/template/veriable.scss",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/src/header.html",
-		"/C/OpenServer/OpenServer/domains/works/prom-click/package.json",
-		"/C/OpenServer/OpenServer/domains/gulp1/my/package.json",
-		"/C/OpenServer/OpenServer/domains/gulp1/my/index.html",
-		"/C/OpenServer/OpenServer/domains/gulp1/my/css/style.css",
-		"/C/OpenServer/OpenServer/domains/gulp1/my/gulpfile.js",
-		"/C/OpenServer/OpenServer/domains/gulp1/my/bower.json",
-		"/C/OpenServer/OpenServer/domains/gulp1/css/style.css",
-		"/C/OpenServer/OpenServer/domains/gulp1/index.html"
+		"/C/OpenServer/OpenServer/domains/works/prom-click/build/bower_components/jquery/dist/jquery.min.js"
 	],
 	"find":
 	{
@@ -554,6 +559,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"item",
+			"templ",
+			"breadcrumbs",
+			"templat",
+			"templait",
+			"client",
+			"client_item",
+			"recru",
+			".step_content{",
+			"debug",
 			"texta",
 			"PERSONNEL ASSESSMENT",
 			"brea",
@@ -671,17 +686,7 @@
 			"}",
 			"boundary",
 			"img",
-			"contan",
-			"contant",
-			"conte",
-			"n",
-			"box-shadow",
-			"background-image",
-			"backgraund",
-			"ba",
-			"bagra",
-			"bgim",
-			"froof-cell"
+			"contan"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -762,7 +767,7 @@
 		"cols":
 		[
 			0.0,
-			0.785098951512,
+			0.888905179886,
 			1.0
 		],
 		"rows":
@@ -830,7 +835,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 201.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

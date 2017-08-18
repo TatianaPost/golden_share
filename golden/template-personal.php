@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Template recruting
+ * Template Name: Template personal
  */
 get_header(); ?>
 
@@ -14,21 +14,7 @@ get_header(); ?>
 </div>
 <div class="content_wrapper">
   <div class="content">
-    <div class="sidebar">
-        <?php
-        wp_nav_menu( array(
-            'theme_location' => 'header_menu', 
-            'container'       => 'nav',  
-            'container_id'    => 'recruting_menu',
-            'menu_class'      => '', 
-            'menu_id'         => '',
-            'walker'        => new Aletheme_Nav_Walker(),
-            'menu'            => '', 
-            ) );
-            ?>
-
-            <button id="consultation" class="btn_consultation">Get consulting</button>
-        </div>
+    
         <div class="user_content">
             <div class="breadcrumbs_wrapper">
                <?php  get_breadcrumbs(); ?> 
@@ -46,6 +32,6 @@ get_header(); ?>
        </div>
    </div>  
 </div> 
-   
+ 
 
 <?php get_footer(); ?>

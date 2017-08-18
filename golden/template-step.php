@@ -58,9 +58,9 @@ get_header(); ?>
                       </div>
                       <div class="step_item"> 
                         <h2 style="color: #ff7d27;">POST - <br> PLACEMENT <br> SUPPORT</h2> 
-                        <h3>When your organization makes its choice of the new 
-                          employee we manage the official offer or placement 
-                          process on your behalf.</h3>
+                        <h3>Golden Share understands your organization's 
+                          hiring needs, corporate culture, long-term goals, 
+                          priorities, budget and incentives.</h3>
                         </div>
                       </div>
                     </section>
@@ -69,10 +69,9 @@ get_header(); ?>
                       <h1>WE FOLLOW YOUR TIME SHEDULE, <br>
                         PROVIDE FREQUENT AND PROMPTLY INFORM YOU ABOUT <br>
                         MAJOR DEVELOPMENTS</h1>
-                        <h3>Golden Share understands your organization's 
-                          hiring needs, corporate culture, long-term goals, 
-                          priorities, budget and incentives.</h3>
+                        
                           <button id="consultation" class="btn_consultation">Get consulting</button>
                         </section>
+   
 
                         <?php get_footer(); ?>

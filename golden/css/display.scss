@@ -1,0 +1,164 @@
+ 
+@media screen and (max-width: 1270px){
+	.effective:after, .before-client:after{
+		display: none;
+	}
+	.list{
+		padding: 0 20px;
+	}
+	.before-client{
+		margin-bottom: 20px;
+	}
+	.num:after {
+		display: none;
+	}
+	.num { 
+		margin: 0px!important;
+		min-height: 210px; 
+	}
+}
+@media screen and (max-width: 1270px){
+	#navigation_menu > ul > li { 
+		margin-left: 20px; 
+	}
+	.content{
+		padding: 0 20px;
+	}
+}
+@media screen and (max-width: 1100px){
+	#navigation_menu ul li a {
+		font-size: 16px;
+	}
+	#navigation_menu{
+		padding-left: 10px;
+		> ul > li { 
+			margin-left: 10px; 
+			max-width: 100px;
+		}
+	}
+	.blocks_top {
+		padding-top: 136px;
+	}
+//-------------------------------
+#header .bottom_block {
+	padding: 10px 10px 10px 0; 
+} 
+.innovatiwe_wrapper{
+	padding-right: 0;
+}
+#innovaitiv h2 { 
+	margin-left: 0px; 
+}
+.result {
+	min-height: 1px;
+	padding: 25px 20px 20px 20px;
+	h2{
+		padding: 20px;
+	}
+}
+}
+@media screen and (max-width: 900px){
+	#innovaitiv ul {
+		text-align: center;
+		li{
+			display: block;
+			margin-top: 40px;
+			&:first-child{
+				margin-top: 0;
+			}
+		}
+	}
+}
+@media screen and (max-width: 800px){
+	.num {  
+		min-height: 260px; 
+	}
+	.collback {
+    float: none;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.loog{
+	margin: 15px 0;
+}
+#mob_menu, .loog{
+	text-align: center;
+	img{
+		max-width: 90%;
+	} 
+	h2{
+		position: relative;
+		left: -20px;
+	}
+}
+}
+
+@media screen and (max-width: 700px){
+	.list {
+    padding: 0  ;
+}
+	.result h2 { 
+    background: none;  
+}
+.list-wrapper {
+    padding-bottom: 30px; 
+}
+.result .btn_consultation {
+    font-size: 18px;
+}
+	#innovaitiv h2:before{
+		display: none;
+	}
+	#innovaitiv h2 {
+		font-size: 30px;
+		margin-top: 20px;
+	}
+	.num {
+		position: relative;
+		display: block;
+		min-height: 1px;
+
+		padding: 20px ;
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0; 
+		background:   linear-gradient(to right, #fff 10%, #efefef); 
+		&:nth-child(2n) { 
+			padding: 20px ;
+			text-align: right;
+			border-top-right-radius: 0;
+			border-bottom-right-radius: 0; 
+			background:  linear-gradient(to left, #fff 10%, #efefef);
+			background-repeat: no-repeat;
+			h3{
+			float: none;
+			display: block;
+		}
+		}
+		&:nth-child(3){
+			background:   linear-gradient(to right, #fff 10%, #efefef); 
+		}
+		&:nth-child(4){
+			background:  linear-gradient(to left, #fff 10%, #efefef);
+		}
+		h3{
+			float: none;
+			display: block;
+		}
+	} 
+}
+
+@media screen and (max-width: 600px){
+	.blocks_top h1, .happy h1, .effective h2, .result h2, .before-client h2{
+		font-size:20px; 
+	}
+	.happy h1{ 
+		min-height: 110px;
+	}
+}
+@media screen and (max-width: 480px){
+	.num{
+		h3{
+			font-size: 19px !important;
+		}
+	}
+	}

@@ -52,92 +52,92 @@ function home_innovative() {
         ),
         //---------------
       array(
-      'type' => 'textfield',
-      'heading' => 'Масштаб левый',
-      'param_name' => 'scale_left',
-      'group' => 'Масштаб кружочков',
-      ),array(
-      'type' => 'textfield',
-      'heading' => 'Масштаб центральный',
-      'param_name' => 'scale_center',
-      'group' => 'Масштаб кружочков',
-      ),
-      array(
         'type' => 'textfield',
-        'heading' => 'Масштаб правый',
-        'param_name' => 'scale_right',
+        'heading' => 'Масштаб левый',
+        'param_name' => 'scale_left',
+        'group' => 'Масштаб кружочков',
+        ),array(
+        'type' => 'textfield',
+        'heading' => 'Масштаб центральный',
+        'param_name' => 'scale_center',
         'group' => 'Масштаб кружочков',
         ),
+        array(
+          'type' => 'textfield',
+          'heading' => 'Масштаб правый',
+          'param_name' => 'scale_right',
+          'group' => 'Масштаб кружочков',
+          ),
         //---------------
-    array(
-      'type' => 'textfield',
-      'heading' => 'текст левый',
-      'param_name' => 'text_left',
-      'group' => 'Кружочки',
-      ),array(
-      'type' => 'textfield',
-      'heading' => 'текст центральный',
-      'param_name' => 'text_centr',
-      'group' => 'Кружочки',
-      ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'текст правый',
-        'param_name' => 'text_right',
-        'group' => 'Кружочки',
-        ),
+        array(
+          'type' => 'textfield',
+          'heading' => 'текст левый',
+          'param_name' => 'text_left',
+          'group' => 'Кружочки',
+          ),array(
+          'type' => 'textfield',
+          'heading' => 'текст центральный',
+          'param_name' => 'text_centr',
+          'group' => 'Кружочки',
+          ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'текст правый',
+            'param_name' => 'text_right',
+            'group' => 'Кружочки',
+            ),
         //---------------
-      array(
-        'type' => 'textfield',
-        'heading' => 'Главный текст -Заголовок',
-        'param_name' => 'main_text',
-        'group' => 'Основное',
-        ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'текст под заголовком',
-        'param_name' => 'text_sub',
-        'group' => 'Основное',
-        ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Главный текст -Заголовок',
+            'param_name' => 'main_text',
+            'group' => 'Основное',
+            ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'текст под заголовком',
+            'param_name' => 'text_sub',
+            'group' => 'Основное',
+            ),
           //---------
-      array(
-        'type' => 'textfield',
-        'heading' => 'Пункт 1',
-        'param_name' => 'list-1',
-        'group' => 'Список',
-        ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'Пункт 2',
-        'param_name' => 'list-2',
-        'group' => 'Список',
-        ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'Пункт 3',
-        'param_name' => 'list-3',
-        'group' => 'Список',
-        ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'Пункт 4',
-        'param_name' => 'list-4',
-        'group' => 'Список',
-        ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'Пункт 5',
-        'param_name' => 'list-5',
-        'group' => 'Список',
-        ),
-      array(
-        'type' => 'textfield',
-        'heading' => 'Пункт 6',
-        'param_name' => 'list-6',
-        'group' => 'Список',
-        ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Пункт 1',
+            'param_name' => 'list-1',
+            'group' => 'Список',
+            ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Пункт 2',
+            'param_name' => 'list-2',
+            'group' => 'Список',
+            ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Пункт 3',
+            'param_name' => 'list-3',
+            'group' => 'Список',
+            ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Пункт 4',
+            'param_name' => 'list-4',
+            'group' => 'Список',
+            ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Пункт 5',
+            'param_name' => 'list-5',
+            'group' => 'Список',
+            ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'Пункт 6',
+            'param_name' => 'list-6',
+            'group' => 'Список',
+            ),
       //-------------------------------------
-      ),
+          ),
   ) );
 }
 class WPBakeryShortCode_home_innovative extends WPBakeryShortCode {
@@ -158,7 +158,7 @@ function home_happy() {
       'param_name' => 'main_text',
       'group' => 'Main golden',
       )
-  ) ));
+    ) ));
 }
 class WPBakeryShortCode_home_happy extends WPBakeryShortCode {
 }
@@ -178,7 +178,7 @@ function home_effective() {
       'param_name' => 'main_text',
       'group' => 'Main golden',
       )
-  ) ));
+    ) ));
 }
 class WPBakeryShortCode_home_effective extends WPBakeryShortCode {
 }
@@ -217,7 +217,7 @@ function home_list() {
       'group' => 'Контент',
       ),
       //----------------------------
-        array(
+    array(
       'type' => 'textarea',
       'heading' => 'Первый текст',
       'param_name' => 'list_title_1',
@@ -242,7 +242,7 @@ function home_list() {
       'group' => 'Заголовок',
       ),
     //----------------------------
-        array(
+    array(
       'type' => 'textarea',
       'heading' => 'Первый текст',
       'param_name' => 'list_sub_title_1',
@@ -266,7 +266,7 @@ function home_list() {
       'param_name' => 'list_sub_title_4',
       'group' => 'Подзаголовок',
       ),
-  ) ));
+    ) ));
 }
 class WPBakeryShortCode_home_list extends WPBakeryShortCode {
 }
@@ -312,7 +312,7 @@ function home_before_client() {
       'param_name' => 'title',
       'group' => 'Main golden',
       )
-      ),
+    ),
   ) );
 }
 class WPBakeryShortCode_home_before_client extends WPBakeryShortCode {
@@ -333,7 +333,7 @@ function home_client() {
       'param_name' => 'title',
       'group' => 'Main golden',
       )
-      ),
+    ),
   ) );
 }
 class WPBakeryShortCode_home_client extends WPBakeryShortCode {
@@ -356,8 +356,110 @@ function home_finde() {
       'param_name' => 'title',
       'group' => 'Main golden',
       )
-      ),
+    ),
   ) );
 }
 class WPBakeryShortCode_home_finde extends WPBakeryShortCode {
 }
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+add_action( 'vc_before_init', 'client_img' );
+function client_img() {
+ vc_map( array(
+  "name" => 'client_img',
+  "base" => "client_img",
+  'category' => 'Client golden',
+  "params" => array(
+    array(
+      'type' => 'attach_image',
+      'heading' => 'Изображение',
+      'param_name' => 'img',
+      'group' => 'Изображение',
+      ) 
+      //-------------------------------------
+    ),
+  ) );
+}
+class WPBakeryShortCode_client_img extends WPBakeryShortCode {
+}  
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+add_action( 'vc_before_init', 'client_desc' );
+function client_desc() {
+ vc_map( array(
+  "name" => 'client_desc',
+  "base" => "client_desc",
+  'category' => 'Client golden',
+  "params" => array(
+    array(
+      'type' => 'attach_image',
+      'heading' => 'Картинка левый',
+      'param_name' => 'img_left',
+      'group' => 'Кружочки',
+      ),array(
+      'type' => 'attach_image',
+      'heading' => 'Картинка центральный',
+      'param_name' => 'img_centr',
+      'group' => 'Кружочки',
+      ),
+      array(
+        'type' => 'attach_image',
+        'heading' => 'Картинка правый',
+        'param_name' => 'img_right',
+        'group' => 'Кружочки',
+        ), 
+        //---------------
+        array(
+          'type' => 'textfield',
+          'heading' => 'текст левый',
+          'param_name' => 'text_left',
+          'group' => 'Кружочки',
+          ),array(
+          'type' => 'textfield',
+          'heading' => 'текст центральный',
+          'param_name' => 'text_centr',
+          'group' => 'Кружочки',
+          ),
+          array(
+            'type' => 'textfield',
+            'heading' => 'текст правый',
+            'param_name' => 'text_right',
+            'group' => 'Кружочки',
+            ),
+        //---------------
+          array(
+            'type' => 'textfield',
+            'heading' => 'Главный текст -Заголовок',
+            'param_name' => 'desc',
+            'group' => 'Основное',
+            ), 
+      //-------------------------------------
+          ),
+  ) );
+}
+class WPBakeryShortCode_client_desc extends WPBakeryShortCode {
+}
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+add_action( 'vc_before_init', 'breadcrambs' );
+function breadcrambs() {
+ vc_map( array(
+  "name" => 'breadcrambs',
+  "base" => "breadcrambs",
+  'category' => 'Client golden',
+  "params" => array(
+    array(
+      'type' => 'attach_image',
+      'heading' => 'Изображение',
+      'param_name' => 'img',
+      'group' => 'Изображение',
+      ) 
+      //-------------------------------------
+    ),
+  ) );
+}
+class WPBakeryShortCode_breadcrambs extends WPBakeryShortCode {
+}  
