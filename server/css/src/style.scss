@@ -215,7 +215,7 @@ h3{
     ul{
         display: none;
         position: absolute; 
-        bottom: 0;
+        bottom: 1px;
         left: 50%; 
         transform: translateY(100%) translateX(-50%);
         background-color: rgba(0,0,0,.3);
@@ -1019,11 +1019,11 @@ button{
     width: 280px;
 }
 .user_content{;
-    padding-top: 85px;
+    padding-top: 45px;
     margin-left: 282px;
     p{
         margin-bottom: 19.199999999999999px;
-        font-size: 19px;
+        font-size: 16px;
         font-weight: 300;
         line-height: 1.3;
     }
@@ -1055,7 +1055,7 @@ button{
         margin-bottom: 18px;
         a{
             display: block;
-            font-size: 22px;
+            font-size: 20px;
         }
     }
     position: relative;
@@ -1165,8 +1165,8 @@ body.page-template-template-personal {
     }
     &:before{
         position: absolute;
-        top: -17px;
-        left: -143px;
+        top: 14px;
+        left: -133px;
 
         display: block;
 
@@ -1191,7 +1191,7 @@ body.page-template-template-personal {
 }
 
 .after_user_content_btn_wrap{
-    padding: 50px 0 110px 0;
+    padding: 30px 0 60px 0;
     text-align: center;
 }
 .follow{
@@ -1395,4 +1395,8 @@ body.page-template-template-personal {
 }
 #navigation_menu >ul >.current-menu-item:before{
     display: none;
+}
+.services_top{
+    min-height: 330px;
+    padding: 0; 
 }
